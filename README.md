@@ -19,6 +19,7 @@ Secure Login: Separate accounts for donors, hospitals, and admin.
 Technologies Used
 
 Backend: Python, Django
+
 Frontend: HTML, CSS, JavaScript
 
 Database: SQLite
