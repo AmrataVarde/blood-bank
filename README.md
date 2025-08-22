@@ -7,9 +7,13 @@ The Blood Bank Management System is a web-based application designed to streamli
 Features
 
 Donor Registration: Register donors with blood type and contact info.
+
 Hospital Management: Hospitals can request and manage blood supplies.
+
 Inventory Tracking: Monitor blood stock and get low-stock alerts.
+
 Patient Requests: Patients can request blood efficiently.
+
 Secure Login: Separate accounts for donors, hospitals, and admin.
 
 Technologies Used
